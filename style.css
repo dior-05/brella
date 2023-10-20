@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+.conteyner{
+    max-width: 1200px;
+    width: 100%;
+    padding: 0 1px;
+    margin: 0 auto;
+}
+.wrapper_head{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 33px 0;
+    max-width: 1440px;
+    width: 100%;
+    padding: 0 60px;
+    margin: 33px auto;
+}
+.header_nav{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.header_nav ul{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.header_nav ul li{
+    list-style: none;
+    font-size: 14px;
+    font-family: Raleway;
+    font-weight: 500;
+    line-height: 20px;
+    word-wrap: break-word;
+    color: #214E41;
+}
+.nav_btn{
+    color: white;
+font-size: 14px;
+font-family: Raleway;
+font-weight: 700;
+line-height: 20px;
+word-wrap: break-word;
+background-color: #43806C;
+width: 100px;
+height: 30px;
+border-radius: 6px;
+margin-left: 30px;
+border: none;
+}
+.nav_btn:hover{
+    color:  #43806C;
+    background-color: white;
+    border: 2px solid #43806C;
+    cursor: pointer;
+}
+.one{
+    background-image: url("./img/Rectangle.jpg");
+    width: 1440px;
+    height: 720px;
+    border: 2px solid #ffffff;
+    margin: 0 auto;
+}
+.one_pi{
+    width: 280px;
+    height: 60px;
+background-color: white;
+align-items: center;
+display: flex;
+justify-content: center;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+
+}
+.oni_span{
+    width: 120px;
+    height: 60px;
+    background-color:#43806C;
+    color: #fff;
+    border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+border: 2px solid #43806C;
+}
+.oni_span:hover{
+    color:  #fff;
+    background-color: #43806c6c;
+    border: 2px solid #43806C;
+    cursor: pointer;
+}
+.one_text{
+    align-items: center;
+    display: flex;
+    margin-top: 16px;
+}
+.one_h2{
+    color: #214E41;
+font-size: 36px;
+font-weight: 700;
+line-height: 46px;
+word-wrap: break-word;
+width: 516px;
+height: 138px;
+margin: 161px 0 40px;
+}
+.one_content{
+    width: 1200px;
+height: 171px;
+border-radius: 6px;
+background-color: #fff;
+margin-top: 178px;
+align-items: center;
+display: flex;
+justify-content: space-between;
+gap: 16px;
+padding: 50px;
+box-shadow: 2px 2px 7px #111;
+margin-bottom: 200px;
+}
+.car_one{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #214E41;
+}
+.p_one{
+    margin-bottom: 5px;
+}
+.wrapper_two{
+    gap: 800px;
+    margin: 182px auto 70px;
+    width: 1200px;
+    height: 432px;
+padding: 0px 60px 0px 60px;
+}
+.wrapper_three{
+    margin: 0 auto 120px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+    
+.content_four h3{
+    color: #214E41;
+font-size: 36px;
+font-weight: 700;
+line-height: 46px;
+word-wrap: break-word;
+width: 576px;
+height: 82px;
+margin: 20px 0 34px;
+}
+.content_four p{
+    width: 551px;
+    color: #757575;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.02px;
+word-wrap: break-word;
+}
+.wrapper_four{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.card_koment h1{
+    color: #F0A446;
+font-size: 60px;
+font-weight: 700;
+line-height: 78px;
+}
+.card_koment p{
+    color: #214E41;
+font-size: 13px;
+font-family: Raleway;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0.02px;
+word-wrap: break-word;
+width: 239px;
+height: 44px;
+}
+.koment_four{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.wrapper_five{
+    margin: 117px auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card_koment h1{
+    font-family: 'Poppins', sans-serif;
+}
+.sixsty{
+    background-image: url("./img/Rectangle\ \(12\).jpg");
+    width: 1440px;
+    height: 522px;
+    border: 1px solid #fff
+}
+.fouur{
+    margin-top: 125px;
+}
+.learn{
+    text-decoration: none;
+    color: #111;
+    margin-bottom: 5px;
+}
+.six_li{
+    margin-top: 24px;
+    list-style: none;
+}
+.seven{
+    border-bottom: 2px solid #111;
+   width: 85px;
+   margin-top: 10px;
+}
